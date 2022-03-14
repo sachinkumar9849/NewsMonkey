@@ -1,0 +1,209 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Mariana Alfaro, Adela Suliman",
+      "title": "White House warns Russia could use chemical weapons in Ukraine, rejects false 'conspiracy' of U.S. biolabs - The Washington Post",
+      "description": "White House Press Secretary Jen Pskai blasted Russia over “false claims” and criticized Chinese officials who “echo these conspiracy theories.”",
+      "url": "https://www.washingtonpost.com/world/2022/03/10/ukraine-russia-disinformation-us-biolabs-chemical-weapons/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GCZFFHU73II6ZFBYEVLQTNWN3Q.jpg&w=1440",
+      "publishedAt": "2022-03-10T12:33:18Z",
+      "content": "Psaki said the United States was in full compliance with its obligations under the Chemical Weapons Convention and the Biological Weapons Convention, which bar countries from developing or possessing… [+3251 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "David L. Stern, Michael Birnbaum, Karoun Demirjian, Paulina Firozi, Annabelle Timsit",
+      "title": "Russian airstrike hits maternity hospital; US warns of small Russian gains - The Washington Post",
+      "description": "U.S. officials warned that Russia seemed to be launching more indiscriminate attacks and making small but strategic gains on key cities.",
+      "url": "https://www.washingtonpost.com/national-security/2022/03/09/russian-airstrike-hospital/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/76PFXPU74EI6ZFBYEVLQTNWN3Q.jpg&w=1440",
+      "publishedAt": "2022-03-10T12:13:02Z",
+      "content": "The blast tore the front off one of the buildings in the hospital complex and damaged several others. One pregnant woman was evacuated on a stretcher; a long bleeding gash on her left hip was visible… [+10459 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": null,
+      "title": "Latest Russia-Ukraine news: Harris holds press conference with Polish president - New York Post ",
+      "description": "Follow the latest news updates of the war in Ukraine with the New York Post’s live coverage. What you need to know: Dad of slain Ukraine family learned of deaths on Twitter’Be on lookout&#821…",
+      "url": "https://nypost.com/2022/03/10/latest-russia-ukraine-news-live-updates-of-the-war-3/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/03/harris-andrzej-duda-poland-meeting-feat-image.jpg?quality=90&strip=all&w=1024",
+      "publishedAt": "2022-03-10T12:13:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Amy Woodyatt, Niamh Kennedy",
+      "title": "UK sanctions Russian oligarch and Chelsea owner Roman Abramovich - CNN",
+      "description": "The UK has added Russian oligarch and Chelsea FC owner Roman Abramovich to its list of sanctioned individuals as part of its efforts to \"isolate\" Russian President Vlamidir Putin following Russia's invasion of Ukraine -- throwing the sale of the London club i…",
+      "url": "https://www.cnn.com/2022/03/10/sport/roman-abramovich-sanctions-uk-list-spt-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220310044239-roman-abramovich-05292019-restricted.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-03-10T12:11:00Z",
+      "content": "The UK has added Russian oligarch and Chelsea FC owner Roman Abramovich to its list of sanctioned individuals as part of its efforts to isolate Russian President Vlamidir Putin following Russias inva… [+4307 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "By <a href=\"/profiles/helen-regan\">Helen Regan</a>, Adam Renton, George Ramsay, Jack Guy and Kathryn Snowdon CNN",
+      "title": "Russia invades Ukraine: Live updates - CNN",
+      "description": "Russia bombed a maternity and children's hospital in Mariupol, southern Ukraine, city officials said Wednesday. Ukraine's President Zelensky said the attack was \"proof of a genocide.\" Follow here for live news updates from on the ground in Ukraine.",
+      "url": "https://www.cnn.com/europe/live-news/ukraine-russia-putin-news-03-10-22/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220309172430-01-ukraine-0309-super-tease.jpg",
+      "publishedAt": "2022-03-10T12:02:00Z",
+      "content": "The Kyiv regional administration says there are several dangerous routes beyond the capital because of heavy fighting, including the main highway westward to Zhytomyr and the town of Makariv, which i… [+1275 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Karan Deep Singh, Mujib Mashal",
+      "title": "India Elections: Uttar Pradesh Looks Likely to Stay in B.J.P.’s Hands - The New York Times",
+      "description": "Uttar Pradesh, India’s most populous state, is staying in the Bharatiya Janata Party’s hands, despite the ravages of Covid and a plummeting economy.",
+      "url": "https://www.nytimes.com/2022/03/10/world/asia/india-elections-modi.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/03/10/world/10India-elections-15/10India-elections-15-facebookJumbo.jpg",
+      "publishedAt": "2022-03-10T11:19:24Z",
+      "content": "Still, while Mr. Modis party has sometimes struggled against strong regional parties in state and general elections, consolidating any of them into a proper opposition to challenge Mr. Modis grip on … [+1336 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Marc Santora, Anton Troianovski, Shashank Bengali",
+      "title": "Here are the latest developments in the war on Ukraine. - The New York Times",
+      "description": "",
+      "url": "https://www.nytimes.com/2022/03/09/world/europe/here-are-the-latest-developments-in-the-war-on-ukraine.html",
+      "urlToImage": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "publishedAt": "2022-03-10T11:15:00Z",
+      "content": "The top diplomats from Ukraine and Russia failed to reach an agreement on Thursday to calm the fighting in Ukraine or even to ease the worsening humanitarian crisis, dashing hopes for a swift end to … [+643 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Barron's" },
+      "author": "Eric J. Savitz",
+      "title": "Amazon Stock Split: Why It Wants a Lower Share Price - Barron's",
+      "description": "Amazon shares are up more than 6% on the news in after-hours trading.",
+      "url": "https://www.barrons.com/articles/amazon-stock-split-51646863502",
+      "urlToImage": "https://images.barrons.com/im-501759/social",
+      "publishedAt": "2022-03-10T11:11:00Z",
+      "content": "Amazon\r\n .\r\ncom shares are moving sharply higher in after-hours trading after the e-commerce and cloud-computing giant declared a 20-for-1 stock split and announced an expanded stock-repurchase progr… [+1917 chars]"
+    },
+    {
+      "source": { "id": "nfl-news", "name": "NFL News" },
+      "author": null,
+      "title": "2022 NFL free agency: Seven players who could get paid more than you think - NFL.com",
+      "description": "Might former Bears quarterback Mitchell Trubisky be in line for a hefty payday? Tom Pelissero names seven NFL players who could get more money than one might expect as free agents in 2022.",
+      "url": "https://www.nfl.com/news/2022-nfl-free-agency-seven-players-who-could-get-paid-more-than-you-think",
+      "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/ngap3yf24eqogfycczgm",
+      "publishedAt": "2022-03-10T11:00:00Z",
+      "content": "The NFL's negotiating window for free agents opens Monday, and the post-pandemic rebound of the salary cap to a record $208.2 million is good news for those hitting the market. \r\nEven after franchise… [+544 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Russian economy in 'shock' from unprecedented economic war - Kremlin - Reuters.com",
+      "description": "The Kremlin said on Thursday that Russia's economy was experiencing a shock and that measures were being taken to soften the impact of what it described as an \"absolutely unprecedented\" economic war being waged against Moscow.",
+      "url": "https://www.reuters.com/markets/asia/russian-economy-shock-unprecedented-economic-war-kremlin-2022-03-10/",
+      "urlToImage": "https://www.reuters.com/resizer/IDWdvTi928kL8aGWVi4hh52FneM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PZJBGIQAK5LAXNC6U3JANM4E44.jpg",
+      "publishedAt": "2022-03-10T09:40:00Z",
+      "content": "March 10 (Reuters) - The Kremlin said on Thursday that Russia's economy was experiencing a shock and that measures were being taken to soften the impact of what it described as an \"absolutely unprece… [+752 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NBCSports.com" },
+      "author": "Michael David Smith",
+      "title": "Darius Leonard notes Colts have had five different quarterbacks in his five seasons - NBC Sports",
+      "description": "Stability at the quarterback position has eluded the Colts in recent years.Indianapolis linebacker Darius Leonard, who was drafted by the Colts in 2018, noted on Twitter after the news that Carson Wentz will be traded to the Commanders that the Colts will be …",
+      "url": "https://profootballtalk.nbcsports.com/2022/03/10/darius-leonard-notes-colts-have-had-five-different-quarterbacks-in-his-five-seasons/",
+      "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/03/USATSI_17383086_168393265_lowres-e1646904551317.jpg",
+      "publishedAt": "2022-03-10T09:29:00Z",
+      "content": "Stability at the quarterback position has eluded the Colts in recent years.\r\nIndianapolis linebacker Darius Leonard, who was drafted by the Colts in 2018, noted on Twitter after the news that Carson … [+621 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Shares wilt as investors see scant hope on Russia-Ukraine talks - Reuters",
+      "description": "A rally for shares wilted on Thursday as analysts warned of further pain for stocks with no immediate end in sight to the war in Ukraine, even after planned diplomatic talks between Moscow and Kyiv had lent momentum to riskier bets.",
+      "url": "https://www.reuters.com/markets/europe/global-markets-wrapup-1-2022-03-10/",
+      "urlToImage": "https://www.reuters.com/resizer/JBrXCI-RdETQ9eo8apjuWWs9uXw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2KCZG75FZRPRBPX2ESXYLTAJHQ.jpg",
+      "publishedAt": "2022-03-10T09:02:00Z",
+      "content": "LONDON/BEIJING, March 10 (Reuters) - A rally for shares wilted on Thursday as analysts warned of further pain for stocks with no immediate end in sight to the war in Ukraine, even after planned diplo… [+3758 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Tom's Guide" },
+      "author": "Mark Spoonauer, Marc McLaren, Philip Michaels",
+      "title": "Apple March event recap — iPhone SE 3, Mac Studio, iPad Air 5 and more - Tom's Guide",
+      "description": "Our Apple event recap will bring you all of Tuesday's Apple product news, including full details of the new iPhone SE 3, iPad Air 5 and Mac Studio.",
+      "url": "https://www.tomsguide.com/news/live/apple-event-march-2022",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/etp3H8fgrrm7tqDrEP5kT-1200-80.png",
+      "publishedAt": "2022-03-10T08:47:56Z",
+      "content": "2022-03-10T11:46:32.270Z\r\n(Image credit: Apple)\r\nApple typically doesn't reveal how much RAM is in its phones, but of course that doesn't stop people from trying to find out. That's exactly what's ha… [+32769 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Oil prices drop as UAE calls on OPEC to boost production | Latest Business News | Economy - WION",
+      "description": "Oil prices barreled down by 12% on Wednesday after the United Arab Emirates called on its OPEC partners to ramp up production.#Oilprices #UAE #OPECAbout Chan...",
+      "url": "https://www.youtube.com/watch?v=ljflHgNMXYI",
+      "urlToImage": "https://i.ytimg.com/vi/ljflHgNMXYI/maxresdefault.jpg",
+      "publishedAt": "2022-03-10T06:12:19Z",
+      "content": null
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Tyler O'Neil",
+      "title": "House passes Russian oil import ban amid Ukraine war - Fox News",
+      "description": "The U.S. House of Representatives passed a bill to suspend energy imports from Russia Wednesday, a day after President Biden signed an executive order enacting a similar ban.",
+      "url": "https://www.foxnews.com/politics/house-passes-russian-oil-import-ban-amid-ukraine-war",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/03/Putin-Building.jpg",
+      "publishedAt": "2022-03-10T05:12:43Z",
+      "content": "The U.S. House of Representatives passed a bill to suspend energy imports from Russia Wednesday, a day after President Biden signed an executive order enacting a similar ban.\r\nThe bill passed 414-17,… [+2629 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "The Adam Project Review - IGN",
+      "description": "The Adam Project debuts on Netflix on March 11, 2022. Review by Ryan Leston.The Adam Project is Back to the Future meets The Last Starfighter with a slew of ...",
+      "url": "https://www.youtube.com/watch?v=eg4PTK5U1sw",
+      "urlToImage": "https://i.ytimg.com/vi/eg4PTK5U1sw/hqdefault.jpg",
+      "publishedAt": "2022-03-10T05:00:13Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Madeleine Finlay, George Cooper, Tony Onuchukwu, Max Sanderson, Linda Geddes",
+      "title": "How come some people haven't had Covid yet? - The Guardian",
+      "description": "There are countless individuals who have knowingly been exposed to Covid-19, often multiple times, but have never had a positive test. Madeleine Finlay speaks to Linda Geddes about how scientists are trying to solve the mystery of why some people don’t catch …",
+      "url": "https://www.theguardian.com/science/audio/2022/mar/10/how-come-some-people-havent-had-covid-yet",
+      "urlToImage": "https://i.guim.co.uk/img/media/9ea9a42864523b36e6842c529cc618c80bce85a4/0_145_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=44f61d16ba7a7bd655bcf8f9424aab53",
+      "publishedAt": "2022-03-10T05:00:04Z",
+      "content": "Although several countries around the world continue to have high rates of Covid-19 infections, including the UK and US, many of their citizens are yet to be infected with the Sars-Cov-2 virus. This … [+365 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Natalie Andrews, Siobhan Hughes, Eliza Collins",
+      "title": "House Passes $1.5 Trillion Omnibus Package That Includes Aid for Ukraine - The Wall Street Journal",
+      "description": "Democrats removed a contentious Covid-aid provision after members said they were blindsided",
+      "url": "https://www.wsj.com/articles/house-lawmakers-release-13-6-billion-for-ukraine-in-omnibus-spending-bill-11646813268",
+      "urlToImage": "https://images.wsj.net/im-501562/social",
+      "publishedAt": "2022-03-10T04:55:00Z",
+      "content": "WASHINGTONThe House passed a $1.5 trillion spending bill that includes emergency aid for Ukraine, after Democratic leaders stripped out a contentious Covid-19 aid provision that would have clawed bac… [+406 chars]"
+    },
+    {
+      "source": { "id": null, "name": "SciTechDaily" },
+      "author": null,
+      "title": "Massive Asteroid Impact Crater in Greenland Occurred a Few Million Years After Dinosaurs Went Extinct - SciTechDaily",
+      "description": "Danish and Swedish researchers have dated the enormous Hiawatha impact crater, a 31 km-wide meteorite crater buried under a kilometer of Greenlandic ice. The dating ends speculation that the meteorite impacted after the appearance of humans and opens up a new…",
+      "url": "https://scitechdaily.com/massive-asteroid-impact-crater-in-greenland-occurred-a-few-million-years-after-dinosaurs-went-extinct/",
+      "urlToImage": "https://scitechdaily.com/images/Fieldwork-Edge-of-Greenland-Ice-Sheet-in-2019-scaled.jpg",
+      "publishedAt": "2022-03-10T04:47:56Z",
+      "content": "Photo from fieldwork at the edge of the Greenland Ice Sheet in 2019. Credit: Pierre Beck\r\nDanish and Swedish researchers have dated the enormous Hiawatha impact crater, a 31 km-wide meteorite crater … [+5564 chars]"
+    },
+    {
+      "source": { "id": "the-hill", "name": "The Hill" },
+      "author": "Aris Folley and Cristina Marcos",
+      "title": "House passes sweeping $1.5 trillion omnibus spending bill | TheHill - The Hill",
+      "description": "The House passed a sweeping $1.5 trillion omnibus spending package on Wednesday&nb...",
+      "url": "https://thehill.com/homenews/house/597633-house-passes-sweeping-15-trillion-omnibus-spending-bill",
+      "urlToImage": "https://thehill.com/sites/default/files/dome_capitol_halfstaff_022322gn_lead.jpg",
+      "publishedAt": "2022-03-10T03:16:55Z",
+      "content": "The House passed a sweeping $1.5 trillion omnibus spending package on Wednesday night to fund the government, hours after lawmakers scrapped billions in funding to combat the COVID-19 pandemic amid r… [+7124 chars]"
+    }
+  ]
+}
