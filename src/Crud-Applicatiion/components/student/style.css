@@ -1,0 +1,122 @@
+#q4lquizmodalwrapper {
+    position: fixed;
+    right: -25px;
+    top: 55%;
+    height: 250px;
+    margin-left: -3px;
+    margin-bottom: -3px;
+    text-align: center;
+  }
+  
+  div#q4lquizmodalwrapper {
+    width: 100%;
+  }
+  #q4lquizwrapper {
+    min-height: 49px;
+    color: #000;
+    float: unset;
+    width: 800px;
+    z-index: 1000;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-clip: "padding-box";
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+    border-radius: 5px;
+    -moz-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 6px 100px 0 rgba(0, 0, 0, 0.35) !important;
+    position: absolute;
+    top: -55%;
+    right: 5%;
+    background: #ffffffd1;
+    height: 75vh;
+  }
+  #q4lquizmodalwrapper .panel-default {
+    border-color: #ddd;
+  }
+  #q4lquizmodalwrapper .panel {
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgb(0 0 0 / 5%);
+    box-shadow: 0 1px 1px rgb(0 0 0 / 5%);
+    padding: 15px;
+  }
+  #q4lquizwidgettabl {
+    float: right;
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+    width: 120px;
+    height: 42px;
+    background-color: #8144e5;
+    padding-top: 5px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+    box-shadow: 0 6px 100px 0 rgba(0, 0, 0, 0.35) !important;
+  }
+  #q4lquizmodalwrapper {
+    width: 100%;
+    z-index: 999;
+    height: 0px;
+  }
+  #q4lquizwrapper {
+    position: absolute;
+    top: 50% !important;
+    transform: translateY(-50%);
+  }
+  #q4lquizwrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #closeQuizTab {
+    position: absolute;
+    top: -7px;
+  
+    right: 48px;
+    font-size: 18px;
+    color: #fff;
+    cursor: pointer;
+  }
+  #closeQuizTab {
+    position: absolute;
+    top: -7px;
+    right: -1%;
+    font-size: 18px;
+    color: #fff;
+    cursor: pointer;
+    background: gray;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    line-height: 30px;
+  }
+  
+  @media screen and (max-width: 767px) {
+    #closeQuizTab {
+      position: absolute;
+      top: 0px;
+      right: 0%;
+    }
+    #q4lquizwrapper {
+      width: 100%;
+    }
+  }
+
+
+
+
+
+
+
+
+

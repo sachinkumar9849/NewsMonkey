@@ -1,8 +1,9 @@
 import React, { useState } from "react";
-import NavBar from "./component/NavBar";
-import News from "./component/News";
+import NavBar from "./NavBar";
+import News from "./News";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import LoadingBar from "react-top-loading-bar";
+import './News.css';
 
 const App = () => {
   const [progress, setProgress] = useState(0);

@@ -1,0 +1,44 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "stuname": "Petra Little",
+      "email": "xypa@mailinator.com"
+    },
+    {
+      "id": 2,
+      "stuname": "Tashy",
+      "email": "zeba@mailinator.com"
+    },
+    {
+      "stuname": "Jana Lott",
+      "email": "kypohuhoj@mailinator.com",
+      "id": 3
+    },
+    {
+      "stuname": "Marsden Burks",
+      "email": "cinycycok@mailinator.com",
+      "id": 4
+    },
+    {
+      "stuname": "Kaye Austin",
+      "email": "weryz@mailinator.com",
+      "id": 5
+    },
+    {
+      "stuname": "Kieran Cleveland",
+      "email": "hiregif@mailinator.com",
+      "id": 7
+    },
+    {
+      "stuname": "Prescott Guthrie",
+      "email": "vofigofo@mailinator.com",
+      "id": 8
+    },
+    {
+      "stuname": "Margaret Clements",
+      "email": "tytevoxo@mailinator.com",
+      "id": 9
+    }
+  ]
+}

@@ -9,6 +9,7 @@ const NewsItem = (props) => {
           {source}
           <span className="visually-hidden">unread messages</span>
         </span>
+        <div className="img_block">
         <img
           className="dfd"
           src={
@@ -17,6 +18,7 @@ const NewsItem = (props) => {
               : imageUrl
           }
         />
+        </div>
         <div className="card-body">
           <h5 className="card-title">{title}...</h5>
           <p className="card-text">{description}...</p>
